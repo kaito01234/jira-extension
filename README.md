@@ -1,2 +1,2 @@
-# jira-extension
-Jira Chrome Extension
+# Jira Backlog Extension
+Jira Backlog Extension
